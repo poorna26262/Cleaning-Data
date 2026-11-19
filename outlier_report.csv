@@ -1,0 +1,5 @@
+Column,OutlierCount,LowerIQRFence,UpperIQRFence,Decision
+Age,6,15.0,55.0,Cap to IQR fences; retain rows
+AnnualIncome,3,21263.06,115254.74,Cap to IQR fences; retain rows
+PurchaseAmount,3,-1815.705,5600.895,Cap to IQR fences; retain rows
+SatisfactionScore,0,-1.0,7.0,Cap to IQR fences; retain rows

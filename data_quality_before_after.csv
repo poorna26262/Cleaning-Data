@@ -1,0 +1,3 @@
+Stage,Rows,Columns,TotalNullCells,DuplicateRows,DtypeAccuracyPercent
+Before cleaning,164,10,59,4,10.0
+After cleaning,153,10,0,0,100.0

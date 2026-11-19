@@ -1,0 +1,154 @@
+CustomerID,CustomerName,Gender,Age,SignupDate,City,Email,AnnualIncome,PurchaseAmount,SatisfactionScore
+C1001,Customer 2,Female,21,2022-01-08,Hyderabad,customer2@example.com,54989.01,2285.06,5
+C1002,Customer 3,Female,36,2022-01-15,Hyderabad,customer3@example.com,64688.03,1122.64,5
+C1003,Customer 4,Male,30,2022-01-22,Mumbai,customer4@example.com,76515.41,3512.69,1
+C1004,Customer 5,Female,36,2022-01-29,Bengaluru,customer5@example.com,70467.13,5450.15,1
+C1005,Customer 6,Male,39,2022-02-05,Hyderabad,customer6@example.com,59221.38,1363.23,2
+C1006,Customer 7,Female,26,2022-02-12,Hyderabad,customer7@example.com,95657.17,210.1,2
+C1008,Customer 9,Male,31,2022-02-26,Hyderabad,customer9@example.com,21686.53,3467.66,5
+C1009,Customer 10,Female,27,2022-03-05,Hyderabad,customer10@example.com,82425.26,325.28,4
+C1010,Customer 11,Male,26,2022-03-12,Hyderabad,customer11@example.com,74980.5,687.07,5
+C1011,Customer 12,Male,37,2022-03-19,Hyderabad,customer12@example.com,82764.52,1239.28,3
+C1012,Customer 13,Male,33,2022-03-26,Bengaluru,customer13@example.com,66860.93,5262.2,5
+C1013,Customer 14,Male,37,2022-04-02,Bengaluru,Not Provided,80007.86,2768.78,3
+C1014,Customer 15,Other,44,2022-04-09,Chennai,customer15@example.com,99686.6,1795.7,5
+C1015,Customer 16,Female,35,2022-04-16,Hyderabad,customer16@example.com,95834.31,1754.66,1
+C1016,Customer 17,Male,23,2022-04-23,Hyderabad,customer17@example.com,97223.96,1287.26,5
+C1017,Customer 18,Male,35,2022-04-30,Hyderabad,customer18@example.com,84080.04,1041.88,4
+C1018,Customer 19,Male,31,2022-05-07,Hyderabad,customer19@example.com,81756.46,1388.28,3
+C1019,Customer 20,Male,35,2022-05-14,Hyderabad,customer20@example.com,82096.06,3260.9,3
+C1020,Customer 21,Female,43,2022-05-21,Mumbai,customer21@example.com,45300.36,517.33,1
+C1021,Customer 22,Female,24,2022-05-28,Chennai,customer22@example.com,105855.86,393.76,5
+C1022,Customer 23,Female,30,2022-06-04,Mumbai,customer23@example.com,69519.55,4512.92,3
+C1023,Customer 24,Male,36,2022-06-11,Bengaluru,customer24@example.com,71077.85,560.58,3
+C1024,Customer 25,Male,46,2022-06-18,Hyderabad,customer25@example.com,67418.29,2472.04,4
+C1025,Customer 26,Female,48,2022-06-25,Hyderabad,customer26@example.com,73741.94,1785.87,4
+C1026,Customer 27,Other,24,2022-07-02,Mumbai,Not Provided,115254.73999999999,500.43,5
+C1027,Customer 28,Female,32,2022-07-09,Bengaluru,customer28@example.com,69387.13,2328.68,4
+C1028,Customer 29,Female,26,2022-07-16,Chennai,customer29@example.com,42660.43,1448.4,1
+C1029,Customer 30,Male,42,2022-07-23,Mumbai,customer30@example.com,47672.33,1047.78,1
+C1030,Customer 31,Other,38,2022-07-30,Hyderabad,customer31@example.com,32068.76,2819.67,1
+C1031,Unknown,Male,30,2022-08-06,Bengaluru,customer32@example.com,34593.15,746.1,3
+C1032,Customer 33,Female,28,2022-08-13,Hyderabad,customer33@example.com,75728.35,1101.85,2
+C1033,Customer 34,Female,37,2022-08-20,Chennai,customer34@example.com,56509.94,1697.3,4
+C1034,Customer 35,Female,35,2022-08-27,Hyderabad,customer35@example.com,63395.47,915.57,4
+C1035,Customer 36,Male,26,2022-09-03,Bengaluru,customer36@example.com,62177.15,1650.07,1
+C1036,Customer 37,Male,31,2022-09-10,Hyderabad,customer37@example.com,44490.82,1651.65,3
+C1038,Customer 39,Female,34,2022-09-24,Hyderabad,customer39@example.com,42696.24,5600.895,4
+C1039,Customer 40,Male,37,2022-10-01,Bengaluru,Not Provided,59637.84,4073.77,5
+C1040,Customer 41,Male,24,2022-10-08,Hyderabad,customer41@example.com,25495.6,2468.63,4
+C1041,Customer 42,Male,28,2022-10-15,Hyderabad,customer42@example.com,58133.17,1567.75,2
+C1042,Customer 43,Male,15,2022-10-22,Hyderabad,customer43@example.com,81429.17,1021.45,3
+C1043,Customer 44,Female,35,2022-10-29,Bengaluru,customer44@example.com,86712.58,680.67,2
+C1044,Customer 45,Female,45,2022-11-05,Bengaluru,customer45@example.com,85589.36,1142.63,1
+C1045,Customer 46,Female,15,2022-11-12,Hyderabad,customer46@example.com,73978.06,3687.5,5
+C1046,Customer 47,Other,28,2022-11-19,Mumbai,customer47@example.com,47135.26,837.7,4
+C1047,Customer 48,Male,43,2022-11-26,Bengaluru,customer48@example.com,81307.4,1238.51,4
+C1048,Customer 49,Female,33,2022-12-03,Bengaluru,customer49@example.com,74370.78,926.56,5
+C1049,Customer 50,Male,15,2022-12-10,Bengaluru,customer50@example.com,69831.51,1062.42,4
+C1050,Customer 51,Female,46,2022-12-17,Hyderabad,customer51@example.com,43392.13,223.2,4
+C1051,Customer 52,Male,35,2022-12-24,Mumbai,customer52@example.com,72054.45,3104.45,4
+C1052,Customer 53,Female,48,2022-12-31,Bengaluru,Not Provided,90305.97,1603.06,4
+C1053,Customer 54,Male,28,2023-01-07,Hyderabad,customer54@example.com,78326.98,3248.54,5
+C1054,Customer 55,Female,27,2023-01-14,Hyderabad,customer55@example.com,60962.74,823.3,4
+C1055,Customer 56,Male,34,2023-01-21,Hyderabad,customer56@example.com,74806.55,565.71,2
+C1056,Customer 57,Male,34,2023-01-28,Hyderabad,customer57@example.com,65112.59,2106.52,5
+C1057,Customer 58,Male,40,2023-02-04,Mumbai,customer58@example.com,68231.77,2247.81,4
+C1058,Customer 59,Male,39,2023-02-11,Bengaluru,customer59@example.com,80162.49,3858.02,3
+C1059,Customer 60,Male,33,2023-02-18,Chennai,customer60@example.com,71187.23,2954.86,5
+C1061,Customer 62,Other,41,2023-03-04,Mumbai,customer62@example.com,71914.09,1264.35,5
+C1062,Unknown,Female,37,2023-03-11,Bengaluru,customer63@example.com,50371.46,3683.0,1
+C1063,Customer 64,Female,35,2023-03-18,Hyderabad,customer64@example.com,47210.91,3001.94,3
+C1064,Customer 65,Male,33,2023-03-25,Hyderabad,customer65@example.com,73698.11,4340.06,4
+C1065,Customer 66,Male,33,2023-04-01,Bengaluru,Not Provided,54420.44,2237.46,3
+C1066,Customer 67,Male,41,2023-04-08,Bengaluru,customer67@example.com,75027.5,1888.46,4
+C1067,Customer 68,Female,39,2023-04-15,Hyderabad,customer68@example.com,32100.97,329.32,4
+C1068,Customer 69,Female,35,2023-04-22,Mumbai,customer69@example.com,86442.89,2110.22,5
+C1069,Customer 70,Female,44,2023-04-29,Bengaluru,customer70@example.com,63229.92,695.33,4
+C1070,Customer 71,Male,31,2023-05-06,Mumbai,customer71@example.com,94814.26,1954.0,5
+C1071,Customer 72,Male,38,2023-05-13,Mumbai,customer72@example.com,21263.060000000005,873.57,3
+C1072,Customer 73,Female,35,2023-05-20,Hyderabad,customer73@example.com,34933.96,2889.73,3
+C1073,Customer 74,Male,23,2023-05-27,Hyderabad,customer74@example.com,90139.7,2308.29,4
+C1075,Customer 76,Male,51,2023-06-10,Chennai,customer76@example.com,70485.99,5013.16,2
+C1076,Customer 77,Other,24,2023-06-17,Hyderabad,customer77@example.com,67283.1,1292.47,1
+C1077,Customer 78,Male,46,2023-06-24,Mumbai,customer78@example.com,67928.32,2100.8,3
+C1078,Customer 79,Other,23,2023-07-01,Mumbai,Not Provided,74692.9,1986.62,4
+C1079,Customer 80,Male,38,2023-07-08,Chennai,customer80@example.com,47024.55,5600.895,4
+C1080,Customer 81,Male,23,2023-07-15,Hyderabad,customer81@example.com,62091.88,735.63,4
+C1081,Customer 82,Female,28,2023-07-22,Hyderabad,customer82@example.com,88346.24,1533.88,5
+C1082,Customer 83,Male,30,2023-07-29,Hyderabad,customer83@example.com,68325.46,3906.36,5
+C1083,Customer 84,Other,29,2023-08-05,Hyderabad,customer84@example.com,53994.43,1556.73,5
+C1084,Customer 85,Female,44,2023-08-12,Hyderabad,customer85@example.com,66813.26,2493.47,4
+C1085,Customer 86,Female,35,2023-08-19,Hyderabad,customer86@example.com,83783.82,1155.26,1
+C1086,Customer 87,Female,43,2023-08-26,Hyderabad,customer87@example.com,61536.74,1550.56,1
+C1087,Customer 88,Male,36,2023-09-02,Mumbai,customer88@example.com,61927.24,2820.41,1
+C1088,Customer 89,Other,50,2023-09-09,Bengaluru,customer89@example.com,68856.29500000001,1186.67,4
+C1089,Customer 90,Male,44,2023-09-16,Hyderabad,customer90@example.com,80325.66,962.78,3
+C1090,Customer 91,Male,37,2023-09-23,Hyderabad,customer91@example.com,91526.35,802.57,5
+C1091,Customer 92,Female,24,2023-09-30,Bengaluru,Not Provided,62809.18,2186.35,2
+C1092,Customer 93,Male,41,2023-10-07,Chennai,customer93@example.com,71358.63,883.35,1
+C1093,Unknown,Other,41,2023-10-14,Mumbai,customer94@example.com,83820.29,3519.73,1
+C1094,Customer 95,Male,35,2023-10-21,Hyderabad,customer95@example.com,31114.43,734.39,1
+C1095,Customer 96,Other,41,2023-10-28,Hyderabad,customer96@example.com,67741.47,4816.57,2
+C1096,Customer 97,Female,42,2023-11-04,Hyderabad,customer97@example.com,73449.39,1773.83,2
+C1097,Customer 98,Male,31,2023-11-11,Hyderabad,customer98@example.com,63706.91,2689.98,4
+C1098,Customer 99,Male,40,2023-11-18,Hyderabad,customer99@example.com,49960.83,1533.42,3
+C1099,Customer 100,Other,37,2023-11-25,Hyderabad,customer100@example.com,75698.48,1725.98,1
+C1100,Customer 101,Male,37,2023-12-02,Hyderabad,customer101@example.com,87481.71,3988.22,3
+C1101,Customer 102,Male,31,2023-12-09,Bengaluru,customer102@example.com,63670.89,1422.16,4
+C1102,Customer 103,Other,35,2023-12-16,Hyderabad,customer103@example.com,56627.35,3267.74,2
+C1103,Customer 104,Male,35,2023-12-23,Mumbai,customer104@example.com,61431.47,1946.08,4
+C1104,Customer 105,Female,48,2023-12-30,Mumbai,Not Provided,93163.76,1069.93,5
+C1105,Customer 106,Male,55,2024-01-06,Hyderabad,customer106@example.com,87579.23,2234.51,1
+C1106,Customer 107,Male,30,2024-01-13,Mumbai,customer107@example.com,66106.79,1552.79,4
+C1107,Customer 108,Male,23,2024-01-20,Bengaluru,customer108@example.com,45713.75,544.69,3
+C1108,Customer 109,Female,31,2024-01-27,Mumbai,customer109@example.com,42704.28,1159.3,3
+C1109,Customer 110,Female,26,2024-02-03,Hyderabad,customer110@example.com,59600.22,4083.43,2
+C1110,Customer 111,Female,30,2024-02-10,Hyderabad,customer111@example.com,59734.5,2550.73,4
+C1112,Customer 113,Female,25,2024-02-24,Mumbai,customer113@example.com,45155.87,483.09,3
+C1113,Customer 114,Male,40,2024-03-02,Hyderabad,customer114@example.com,63179.37,5600.895,2
+C1114,Customer 115,Other,42,2024-03-09,Mumbai,customer115@example.com,74974.82,1849.06,4
+C1115,Customer 116,Male,49,2024-03-16,Chennai,customer116@example.com,35199.21,2541.6,5
+C1116,Customer 117,Female,52,2024-03-23,Hyderabad,customer117@example.com,106593.56,3184.94,4
+C1117,Customer 118,Female,44,2024-03-30,Hyderabad,Not Provided,75783.79,1081.88,5
+C1118,Customer 119,Male,55,2024-04-06,Hyderabad,customer119@example.com,74907.83,908.15,4
+C1119,Customer 120,Other,35,2024-04-13,Mumbai,customer120@example.com,42138.41,4423.91,4
+C1120,Customer 121,Female,37,2024-04-20,Hyderabad,customer121@example.com,47109.12,466.68,5
+C1121,Customer 122,Male,36,2024-04-27,Hyderabad,customer122@example.com,83762.78,2193.31,1
+C1122,Customer 123,Male,38,2024-05-04,Bengaluru,customer123@example.com,81441.22,1063.68,4
+C1123,Customer 124,Female,44,2024-05-11,Bengaluru,customer124@example.com,21863.29,3644.81,2
+C1124,Unknown,Other,31,2024-05-18,Mumbai,customer125@example.com,86266.05,1456.03,3
+C1125,Customer 126,Male,51,2024-05-25,Hyderabad,customer126@example.com,78625.32,2988.98,1
+C1126,Customer 127,Female,47,2024-06-01,Bengaluru,customer127@example.com,76759.06,280.54,4
+C1127,Customer 128,Male,38,2024-06-08,Hyderabad,customer128@example.com,45661.21,519.01,5
+C1128,Customer 129,Female,39,2024-06-15,Mumbai,customer129@example.com,70231.34,3458.52,5
+C1129,Customer 130,Female,24,2024-06-22,Hyderabad,customer130@example.com,54736.06,1896.26,1
+C1130,Customer 131,Female,15,2024-06-29,Mumbai,Not Provided,75712.95,3252.99,2
+C1131,Customer 132,Female,33,2024-07-06,Chennai,customer132@example.com,98687.67,751.7,3
+C1132,Customer 133,Male,37,2024-07-13,Mumbai,customer133@example.com,77169.41,2239.93,4
+C1133,Customer 134,Male,36,2024-07-20,Hyderabad,customer134@example.com,83927.47,253.71,3
+C1134,Customer 135,Female,23,2024-07-27,Hyderabad,customer135@example.com,60088.0,4982.86,2
+C1135,Customer 136,Male,30,2024-08-03,Hyderabad,customer136@example.com,47348.54,1416.78,5
+C1136,Customer 137,Male,35,2024-08-10,Mumbai,customer137@example.com,65972.0,3521.06,3
+C1137,Customer 138,Male,41,2024-08-17,Chennai,customer138@example.com,84366.51,2214.84,5
+C1138,Customer 139,Female,40,2024-08-24,Bengaluru,customer139@example.com,92137.65,1945.76,5
+C1139,Customer 140,Male,31,2024-08-31,Chennai,customer140@example.com,64692.62,1796.26,1
+C1140,Customer 141,Other,41,2024-09-07,Bengaluru,customer141@example.com,70330.07,3195.22,5
+C1141,Customer 142,Female,47,2024-09-14,Hyderabad,customer142@example.com,58622.71,1893.96,5
+C1142,Customer 143,Female,42,2024-09-21,Hyderabad,customer143@example.com,34925.33,632.91,4
+C1143,Customer 144,Other,30,2024-09-28,Hyderabad,Not Provided,67343.47,2820.59,3
+C1144,Customer 145,Male,37,2024-10-05,Mumbai,customer145@example.com,72053.26,1674.66,1
+C1145,Customer 146,Male,25,2024-10-12,Hyderabad,customer146@example.com,58368.29,828.75,4
+C1146,Customer 147,Female,31,2024-10-19,Bengaluru,customer147@example.com,62715.21,1575.17,2
+C1147,Customer 148,Female,40,2024-10-26,Mumbai,customer148@example.com,33472.31,1844.31,5
+C1149,Customer 150,Male,32,2024-11-09,Hyderabad,customer150@example.com,90665.52,2506.34,1
+C1150,Customer 151,Male,48,2024-11-16,Hyderabad,customer151@example.com,65417.6,930.03,3
+C1151,Customer 152,Female,32,2024-11-23,Hyderabad,customer152@example.com,76539.65,1903.16,1
+C1152,Customer 153,Male,42,2024-11-30,Hyderabad,customer153@example.com,73814.6,344.84,2
+C1153,Customer 154,Male,35,2024-12-07,Bengaluru,customer154@example.com,52228.88,1936.33,2
+C1154,Customer 155,Female,23,2024-12-14,Bengaluru,customer155@example.com,69611.53,946.0,2
+C1155,Unknown,Male,34,2024-12-21,Hyderabad,customer156@example.com,51125.73,1580.31,4
+C1156,Customer 157,Male,31,2024-12-28,Chennai,Not Provided,115254.73999999999,250.87,4
+C1157,Customer 158,Other,15,2025-01-04,Hyderabad,customer158@example.com,69537.55,4508.39,4
+C1158,Customer 159,Male,22,2025-01-11,Bengaluru,customer159@example.com,46273.83,965.52,1
+C1159,Customer 160,Male,30,2025-01-18,Hyderabad,customer160@example.com,38262.38,588.32,4
